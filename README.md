@@ -1,6 +1,5 @@
 # Advanced-si-3
 
-Goal of the project:
-Create automated tests for this demo website, with Selenium in java
--Form filling 
--registration
+
+
+Solo project. Goals were to practice the POM (Page Object Model) Concept with Selenium in Java, understand the fundamentals and start implementing the design pattern.
